@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NavigationJava.iml" filepath="$PROJECT_DIR$/.idea/modules/NavigationJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NavigationJava.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NavigationJava.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NavigationJava.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NavigationJava.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NavigationJava.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NavigationJava.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NavigationJava.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NavigationJava.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
